@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 - Un web browser tel que firefox
 - Un connexion internet stable
+- La derniere version de Python
 
 ### Installation
 
